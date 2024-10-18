@@ -81,12 +81,7 @@ INSTRUCTIONS: List any other IBM technology or IBM AI services used in your solu
 - [Watson Machine Learning](https://cloud.ibm.com/catalog/services/watson-machine-learning) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 Watson Machine learning  was an associated service when using the watsonx. ai
 - [Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- Watson studio was accessible by use of the cloud pak for data, i used it in my solution by using templates provided in the cloud pak for data
-
-
-- The 
--  
-- 
+- Watson studio was accessible by use of the cloud pak for data, i used it in my solution by using templates provided in the cloud pak for data. Additionally I created a learning material which contained application of the use of Watson Studio from the IBM SkillsBuild. The title of the course was Clean, Refine and Visualize Data with IBM Watson Studio
 
 ### Solution architecture
 
@@ -103,7 +98,7 @@ Diagram and step-by-step description of the flow of our solution:
 _INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
 
 ### Solution demo video
-
+### https://youtu.be/5fjDoKyZgPg
 [![Watch the video](https://youtu.be/5fjDoKyZgPg)
 
 ### Project development roadmap
