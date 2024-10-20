@@ -105,11 +105,11 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature 1. Use of watsonx.ai for generation of new content and use watsonx.governance for examining coppyright infringement
+- Feature 2. Use of watsonx.ai ( for prediction and creation of responses from data obtained from Maximo Application Suite , Environmental Intelligence Suite and Envizi) and watsonx. orchestrate (automation of repetitive tasks). The results are placed into the IBM Cognos Analyics for deriving further data insights 
 
-In the future we plan to...
+
+In the future we plan to use watsonx. data  for data management and other IBM technologies such as watson discover for intelligent document processing 
 
 See below for our proposed schedule on next steps after Call for Code 2024 submission.
 
@@ -125,6 +125,8 @@ INSTRUCTIONS: In this section you add the instructions to run your project on yo
 The project is run by use of Watsonx.ai and Watsonx. governance, other areas where the solution could be deployed is in the Cognos analytics
 
 ### Live demo
+### https://youtu.be/6w7BLX28epY
+### https://youtu.be/kcxNWY_2WSs
 
 You can find a running system to test at...
 
