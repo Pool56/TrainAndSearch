@@ -104,6 +104,8 @@ REPLACE THIS EXAMPLE WITH YOUR OWN, OR REMOVE THIS EXAMPLE
 
 Diagram and step-by-step description of the flow of our solution:
 
+### https://drive.google.com/file/d/1Ff-k1DKO8jjKHtkYlCwAdCSM6iH-WtKo/view?usp=sharing
+
 ![Video transcription/translaftion app]( )
 
 
@@ -127,7 +129,7 @@ The project currently does the following things.
 In the future we plan to use watsonx. data  for data management and other IBM technologies such as watson discover for intelligent document processing 
 
 See below for our proposed schedule on next steps after Call for Code 2024 submission.
-
+### https://drive.google.com/file/d/1tV-6Blomms2woXUWXRhw3Q3s8BatA8xW/view?usp=sharing
 ![Roadmap]()
 
 ## Additional details
