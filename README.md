@@ -53,6 +53,7 @@ Using generative AI to create updated and accessible  offline content.
    The idea for quality education starts with gathering information from certification courses of IBM SkillsBuild, IBM website  and webinars from the IBM events website. 
 The first  step would be to use watsonx.ai to generate new text then use watsonx.governance to examine possibility of bias and copyright infringement. The second  step would be placing the generated content in  PowerPoint documents then sending them to people who could use them. Alternatively, the documents could be uploaded to the chat mode of the Watsonx. ai so as to ground responses based on the contents of the documents.
 We are also addressing the challenge of inequality by assisting the visually impaired to access online content more efficiently by use of plastic cards which function similar to braille  by using the lines and words engraved into plastic materials which illustrate content such as diagrams in the IBM SkillsBuild.
+We have placed powerpoint documents of the courses which we have made in the docs folder. We used Watsonx.ai to generate new text by either use of simple english or fine tuning the AI model to create new text based on career of person such as engineering or agriculture.
 The idea for clean water access also relies on the generated content from a course of titled Fundamentals of sustainability and Technology which outlines use of IBM ESG software such as Envizi.
 The first step would be to acquire  information obtained from using ESG software such as Maximo and the Environmental Intelligence Suite ,the information obtained could be details such as health score or numbers of failures.
 The information is then placed into excel documents by utilizing watsonx.ai and watsonx.orchestrate. 
@@ -61,6 +62,7 @@ The watsonx. Orchestrate is used automate the data entry process from informatio
 Finally, the excel document is then uploaded to the IBM Cognos analytics so as to derive insights. These insights could be utilized by a water engineer especially on factors that affect water purification such as carbon emissions.
 Moreover,  information derived from the Environmental Intelligence Suite concerning geospatial data outlines occurrences of  earthquakes  which significantly  aids in planning of drilling  operations of  water boreholes. 
 Information obtained from Maximo application suite such as probability of   failure once summarized by the IBM Cognos analytics could  be essential  in conducting efficient maintenance schedules as high temperature due to climate change often leads increased tendencies of thermal stress of drilling equipment.
+We have placed excel documents  we used for assessment in the docs secton which we uploaded into the IBM Cognos analytics.
 
 
 
