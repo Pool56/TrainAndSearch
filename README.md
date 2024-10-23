@@ -50,8 +50,7 @@ We are also addressing the challenge of inequality by assisting the visually imp
 Using watsonx to do things such as:
 Document analysis. We have  used watsonx.ai to extract key insights from courses in IBM SkillsBuild as well as IBM webinars and common questions and answers from a corpus of data related to resources or opportunities, and use that to better inform the local community.
 For any of the generative AI models built and implemented using watsonx.ai for the document we made, we utilised  watsonx.governance to monitor and govern the project’s  compliance in relation to copyright infringement.
-    
-    The idea for clean water access also relies on the generated content from a course of titled Fundamentals of sustainability and Technology which outlines use of IBM ESG software such as Envizi.
+ The idea for clean water access also relies on the generated content from a course of titled Fundamentals of sustainability and Technology which outlines use of IBM ESG software such as Envizi.
 The first step would be to acquire  information obtained from using ESG software such as Maximo and the Environmental Intelligence Suite ,the information obtained could be details such as health score or numbers of failures.
 The information is then placed into excel documents by utilizing watsonx.ai and watsonx.orchestrate. 
 The Watsonx. ai is used to add relevant content in the Add knowledge section of the Watsonx. Orchestrate so as to ground the  AI model with detailed information to use for its responses. 
