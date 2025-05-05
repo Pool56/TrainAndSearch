@@ -1,0 +1,47 @@
+import requests
+
+url = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"
+
+body = {
+	"input": """upskilling targets
+
+Input: Candidate B has no ERP efficiency especially NetSuite but experience certification courses of IBM Data explorer.
+What ERP courses would be best suited for this candidate that are similar to operations of IBM Date explorer?
+
+Output: The alternative courses are;
+1.IBM Sterling Order Management System: This system can integrate with an ERP system to leverage its existing functions and features. 
+2. IBM Spectrum Protect for Enterprise Resource Planning: This solution provides data protection and backup for ERP systems
+
+Input: Employee C has three months experience in mechanical engineering but seeks to look for an Information Technology job, which is less technical than with regard to computer science.
+What job opportunities could be available?
+Output: The alternative jobs could be mechanical engineering jobs that deal with maintenance of electrical circuits
+
+Input: Candidate A has six months work experience but  limited communication and organizational skills.
+How could the candidate develop communication skills
+Output:""",
+	"parameters": {
+		"decoding_method": "greedy",
+		"max_new_tokens": 200,
+		"min_new_tokens": 0,
+		"repetition_penalty": 1
+	},
+	"model_id": "ibm/granite-guardian-3-2b",
+	"project_id": "ad5c58ba-f15e-4e0c-a3b4-0d8638b1d20e"
+}
+
+headers = {
+	"Accept": "application/json",
+	"Content-Type": "application/json",
+	"Authorization": "Bearer YOUR_ACCESS_TOKEN"
+}
+
+response = requests.post(
+	url,
+	headers=headers,
+	json=body
+)
+
+if response.status_code != 200:
+	raise Exception("Non-200 response: " + str(response.text))
+
+data = response.json()
