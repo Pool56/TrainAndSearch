@@ -107,7 +107,8 @@ REPLACE THIS EXAMPLE WITH YOUR OWN, OR REMOVE THIS EXAMPLE
 
 Diagram and step-by-step description of the flow of our solution:
 
-### https://drive.google.com/file/d/1Ff-k1DKO8jjKHtkYlCwAdCSM6iH-WtKo/view?usp=sharing
+![image](https://github.com/user-attachments/assets/bc5de5bf-1cb6-4334-ac5b-bd0ece1e2fa0)
+
 
 ![Video transcription/translaftion app]( )
 
