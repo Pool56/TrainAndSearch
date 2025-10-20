@@ -19,7 +19,7 @@
 _INSTRUCTIONS: Below are the suggested sections to include in your README file to make sure your project is well documented. You can remove this instruction text._
 
 ## Project summary
-The project is about how to acheive the 8th goal of the United Nations Sustainable Development goals by use of IBM software
+The project is about how to acheive the 8th goal of the United Nations Sustainable Development goals by use of IBM software and Metta Programming language
 
 
 ### The issue we are hoping to solve
@@ -86,7 +86,7 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/55118f62-87c5-4682-877
 ### Authors
 
 
-- ** John Maina** - _Initial work_ - [PurpleBooth](https://)
+- ** John Rokorio** - _Initial work_ - [PurpleBooth](https://)
 
 
 
